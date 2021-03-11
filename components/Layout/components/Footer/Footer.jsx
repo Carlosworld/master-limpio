@@ -101,27 +101,51 @@ export default function Footer() {
               </div>
               <div className="col-lg-4 col-md-12 col-sm-12">
                 <div className="footer-link-contact">
-                  <h4>Contact Us</h4>
+                  <h4>Visitanos en nuestros sitios web</h4>
                   <ul>
                     <li>
                       <p>
-                        <i className="fas fa-map-marker-alt"></i>Address:
-                        Michael I. Days 3756 <br />
-                        Preston Street Wichita,
-                        <br /> KS 67213{" "}
+                        <i className="fas fa-globe"></i>
+                        <a href="https://icamar.com/">
+                          www.icamar.com
+                        </a>
                       </p>
                     </li>
                     <li>
                       <p>
-                        <i className="fas fa-phone-square"></i>Phone:{" "}
-                        <a href="tel:+1-888705770">+1-888 705 770</a>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://construriomar.com">www.construriomar.com</a>
                       </p>
                     </li>
                     <li>
                       <p>
-                        <i className="fas fa-envelope"></i>Email:{" "}
-                        <a href="mailto:contactinfo@gmail.com">
-                          contactinfo@gmail.com
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://albercasdelmar.com">
+                          www.albercasdelmar.com
+                        </a>
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://friopolar.com">
+                          www.friopolar.com
+                        </a>
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://pozosriomar.com">
+                          www.pozosriomar.com
+                        </a>
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://georiomar.com">
+                          www.georiomar.com
                         </a>
                       </p>
                     </li>
