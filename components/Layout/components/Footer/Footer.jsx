@@ -5,7 +5,7 @@ import FooterCopyright from "../FooterCopyright/FooterCopyright";
 export default function Footer() {
   return (
     <>
-      <InstagramFeed />
+      {/* <InstagramFeed /> */}
       <footer>
         <div className="footer-main">
           <div className="container">
@@ -72,8 +72,7 @@ export default function Footer() {
               <div className="col-lg-4 col-md-12 col-sm-12">
                 <div className="footer-link">
                   <h4>Últimas Publicaciones</h4>
-
-                  <div class="fb-page" data-href="https://www.facebook.com/limpiezaind" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                  <div class="fb-page" data-href="https://www.facebook.com/limpiezaind" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
                     <blockquote cite="https://www.facebook.com/limpiezaind" class="fb-xfbml-parse-ignore">
                       <a href="https://www.facebook.com/limpiezaind">Limpieza Total HLVE</a>
                     </blockquote>

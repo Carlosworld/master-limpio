@@ -15,14 +15,14 @@ class MyDocument extends Document {
 
           <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-          <title>ThewayShop - Ecommerce</title>
+          <title>Master Limpio </title>
           <meta name="keywords" content="" />
           <meta name="description" content="" />
           <meta name="author" content="" />
 
           <link
             rel="shortcut icon"
-            href="images/favicon.ico"
+            href="images/apple-touch-icon.png"
             type="image/x-icon"
           />
           <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />

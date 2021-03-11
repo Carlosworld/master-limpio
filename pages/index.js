@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <HeroSlider />
       <ShopCategories />
-      <FeaturedProducts />
+      {/* <FeaturedProducts /> */}
       <Mapa />
       <Contacto />
     </>
