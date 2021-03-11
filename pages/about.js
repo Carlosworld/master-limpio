@@ -45,28 +45,24 @@ export default function About() {
           <div className="row my-5">
             <div className="col-sm-6 col-lg-4">
               <div className="service-block-inner">
-                <h3>We are Trusted</h3>
+                <h3>Calidad en el servicio</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
               </div>
             </div>
             <div className="col-sm-6 col-lg-4">
               <div className="service-block-inner">
-                <h3>We are Professional</h3>
+                <h3>Mas de 30 años de experiencia</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  
                 </p>
               </div>
             </div>
             <div className="col-sm-6 col-lg-4">
               <div className="service-block-inner">
-                <h3>We are Expert</h3>
+                <h3>Personal capasitado y certificado</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  
                 </p>
               </div>
             </div>
