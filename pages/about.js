@@ -36,7 +36,7 @@ export default function About() {
               <div className="banner-frame">
                 <img
                   className="img-thumbnail img-fluid"
-                  src="images/about-img.jpg"
+                  src="images/10.jpg"
                   alt=""
                 />
               </div>
@@ -54,7 +54,7 @@ export default function About() {
               <div className="service-block-inner">
                 <h3>Mas de 30 años de experiencia</h3>
                 <p>
-                  
+
                 </p>
               </div>
             </div>
@@ -62,7 +62,7 @@ export default function About() {
               <div className="service-block-inner">
                 <h3>Personal capasitado y certificado</h3>
                 <p>
-                  
+
                 </p>
               </div>
             </div>
