@@ -22,7 +22,7 @@ export default function Footer() {
                     <br />
                     Sábados de 7:00am a 2:00pm
                     <br />
-                    Teléfonos (753) 537 1349, (753) 168 3407 (753) 181 1195.
+                    Teléfonos (753) 537 1349, (753) 168 3407 y (753) 181 1195.
                   </p>
                   <ul>
                     <li>
