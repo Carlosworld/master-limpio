@@ -20,17 +20,17 @@ export default function Footer() {
                     <br />
                     Lunes a viernes de 7:00am a 8:00pm
                     <br />
-                    Sábados de 7:00am a 8:00pm
+                    Sábados de 7:00am a 2:00pm
                     <br />
-                    Teléfonos (753) 537 1349 y (753) 168 3407.
+                    Teléfonos (753) 537 1349, (753) 168 3407 (753) 181 1195.
                   </p>
                   <ul>
                     <li>
-                      <a href="#">
+                      <a href="https://www.facebook.com/limpiezaind/">
                         <i className="fab fa-facebook" aria-hidden="true"></i>
                       </a>
                     </li>
-                    <li>
+                    {/* <li>
                       <a href="#">
                         <i className="fab fa-twitter" aria-hidden="true"></i>
                       </a>
@@ -60,10 +60,15 @@ export default function Footer() {
                           aria-hidden="true"
                         ></i>
                       </a>
-                    </li>
+                    </li> */}
                     <li>
                       <a href="#">
                         <i className="fab fa-whatsapp" aria-hidden="true"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-instagram" aria-hidden="true"></i>
                       </a>
                     </li>
                   </ul>
