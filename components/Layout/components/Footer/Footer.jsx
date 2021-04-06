@@ -154,6 +154,14 @@ export default function Footer() {
                         </a>
                       </p>
                     </li>
+                    <li>
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://hlconstrucciones.com">
+                          www.hlconstrucciones.com
+                        </a>
+                      </p>
+                    </li>
                   </ul>
                 </div>
               </div>
