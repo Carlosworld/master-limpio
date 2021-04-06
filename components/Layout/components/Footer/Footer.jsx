@@ -133,8 +133,8 @@ export default function Footer() {
                     <li>
                       <p>
                         <i className="fas fa-globe"></i>{" "}
-                        <a href="https://friopolar.com">
-                          www.friopolar.com
+                        <a href="https://friopolarhl.com">
+                          www.friopolarhl.com
                         </a>
                       </p>
                     </li>
