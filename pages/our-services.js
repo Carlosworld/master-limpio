@@ -9,7 +9,7 @@ export default function OurServices() {
           <div className="row">
             <div className="col-lg-6">
               <h2 className="noo-sh-title">
-                Limpieza industrial,<span>comercial y recidencial</span>
+                Limpieza industrial,<span>comercial y residencial</span>
               </h2>
               <p>
                 PARA OBRAS DE CONSTRUCCIÓN.
